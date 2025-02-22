@@ -59,11 +59,9 @@
     outline: none;
     border: 1px #fff solid;
   }
-  
   .input:not(:placeholder-shown) {
     opacity: 40%
   }
-  
   .form button {
     margin-left: auto;
     margin-right: auto;
